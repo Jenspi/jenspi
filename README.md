@@ -1,12 +1,25 @@
-### `#0969DA` Hey there! 👋
+## Hiya!
+### 🪷 Personal life
+:rainbow_flag: Pronouns: she/her
+<br>:round_pushpin: Location: New Orleans (Michigan for the summer)
+<br>:computer: I’m currently learning web development, myology, and Arabic in my free time
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jenspi/) <!-- discord or linkedin -->
-- 😄 Pronouns: she/her
+<br>:zap: Fun fact: ...
+<br>:love_letter: ***Current*** favorites:
+  Games: LoZ, Pokémon, Overwatch
+  Artists: Remi Wolf, JPEGMAFIA, Danny Brown, Montell Fish
+  -->
+  <br>
+  
+### :books: School life
+:crossed_swords: I'm currently attending The University of New Orleans as an Undergraduate
+<br>:link: I’m looking to collaborate on hackathons
+<br>:seedling: I’m currently working on getting back into clubs
+<!--
+<br>:mag: I’m looking for help with mentoring
+<br>:brain: I currently know Java, Python, C, ASM, MIPS
+-->
+<br>
 
-
+<!--<br>💬 Ask me about -->
+<br>:incoming_envelope: How to reach me: [LinkedIn](https://www.linkedin.com/in/jenspi/) <!-- discord or linkedin -->
