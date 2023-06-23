@@ -22,4 +22,11 @@
 <br>
 
 <!--<br>💬 Ask me about -->
-<br>:incoming_envelope: How to reach me: [LinkedIn](https://www.linkedin.com/in/jenspi/) <!-- discord or linkedin -->
+
+<br>:incoming_envelope: How to reach me: <a href="https://www.linkedin.com/in/jenspi/"><img src="/images/LinkedIn.png"
+                                                                                         width="15"
+                                                                                         height="15"></a>
+                                                                                        
+
+ <!--                                                                                        
+<br>:incoming_envelope: How to reach me: ![https://www.linkedin.com/in/jenspi/](/images/LinkedIn.png) <!-- discord or linkedin -->
