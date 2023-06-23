@@ -25,7 +25,8 @@
 
 <br>:incoming_envelope: How to reach me: <a href="https://www.linkedin.com/in/jenspi/"><img src="/images/LinkedIn.png"
                                                                                          width="15"
-                                                                                         height="15"></a>
+                                                                                         height="15"
+                                                                                         align="center"></a>
                                                                                         
 
  <!--                                                                                        
