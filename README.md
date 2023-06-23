@@ -1,3 +1,5 @@
+![Banner](/images/Simple-Technology-LinkedIn-Banner.png)
+
 ## Hiya!
 ### 🪷 Personal life
 :rainbow_flag: Pronouns: she/her
