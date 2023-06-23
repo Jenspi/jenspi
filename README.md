@@ -1,4 +1,9 @@
-![Banner](/images/Simple-Technology-LinkedIn-Banner.png)
+<!-- ![Banner](/images/dark_mode) -->
+<!-- Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/dark_mode">
+  <source media="(prefers-color-scheme: light)" srcset="/images/light_mode">
+</picture>
 
 ## Hi, I'm Jenny!
 ### 🪷 Personal life
