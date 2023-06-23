@@ -1,6 +1,6 @@
 ![Banner](/images/Simple-Technology-LinkedIn-Banner.png)
 
-## Hiya!
+## Hi, I'm Jenny!
 ### 🪷 Personal life
 :rainbow_flag: Pronouns: she/her
 <br>:round_pushpin: Location: New Orleans (Michigan for the summer)
@@ -29,7 +29,6 @@
                                                                                          width="15"
                                                                                          height="15"
                                                                                          align="center"></a>
-                                                                                        
 
  <!--                                                                                        
 <br>:incoming_envelope: How to reach me: ![https://www.linkedin.com/in/jenspi/](/images/LinkedIn.png) <!-- discord or linkedin -->
