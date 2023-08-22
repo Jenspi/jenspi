@@ -3,12 +3,12 @@
 ## Hi, I'm Jenny!
 ### 🪷 Personal life
 :rainbow_flag: Pronouns: she/her
-<br>:round_pushpin: Location: New Orleans (Michigan for the summer)
+<br>:round_pushpin: Location: New Orleans
 <br>:computer: I’m currently learning web development, myology, and Tunisian Arabic in my free time
 <br>
 
 ### :books: School life
-:crossed_swords: I'm currently attending The University of New Orleans as an Undergraduate
+:crossed_swords: I'm currently attending The University of New Orleans as an Undergraduate (officially in my senior year!)
 <br>:link: I’m looking to collaborate on hackathons
 <br>:seedling: I’m currently working on a game development project & updating my discord bot
 <br>
