@@ -4,7 +4,7 @@
 ### 🪷 Personal life
 :rainbow_flag: Pronouns: she/her
 <br>:round_pushpin: Location: New Orleans
-<br>:computer: I’m currently learning web development, myology, and Tunisian Arabic in my free time
+<br>:computer: I’m currently learning mobile app development, myology, and Derja (Tunisian Arabic) in my free time
 <br>
 
 ### :books: School life
