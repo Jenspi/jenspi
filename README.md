@@ -1,4 +1,6 @@
-![Banner](/images/dark_mode.png)
+<p align="center">
+  <img width=1080 height=300 src="/images/banner.jpeg" alt="Banner that reads 'progress, not perfection'">
+</p>
 
 ## Hi, I'm Jenny!
 ### 🪷 Personal life
