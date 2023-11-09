@@ -10,8 +10,8 @@
 <br>
 
 ### :books: School life
-:crossed_swords: I'm currently attending The University of New Orleans as an Undergraduate (officially in my senior year!)
-<br>:iphone: I’m currently learning mobile app development and will be presenting at InnovateUNO with my team, Novemeber 14, 2023! ^-^
+:crossed_swords: I'm currently attending The University of New Orleans as an Undergraduate, graduating December 2024
+<br>:iphone: I’m currently most excited about my course in mobile app development, and will be taking an intro to AI class in the Spring ^_^
 <br>
 
 <br>:incoming_envelope: How to reach me: <a href="https://www.linkedin.com/in/jenspi/"><img src="/images/LinkedIn.png"
