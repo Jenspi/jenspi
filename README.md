@@ -6,12 +6,13 @@
 ### 🪷 Personal life
 :rainbow_flag: Pronouns: She/Her
 <br>:round_pushpin: Location: New Orleans, Louisiana
-<br>:notebook: I'm really into self growth ^_^
+<br>:notebook: I'm really into self growth/reflection ^_^
+<br>:computer: I'm actively searching for a summer internship!
 <br>
 
 ### :books: School life
 :crossed_swords: I'm currently attending The University of New Orleans as an Undergraduate, graduating December 2024
-<br>:iphone: I’m currently most excited about taking an Intro to AI course in the Spring!!
+<br>:mag: I’m most excited about taking an Intro to AI course in Spring 2024!!
 <br>:microphone: I'll be presenting [ScholarUp](https://github.com/Jenspi/ScholarUp) at the University of Louisiana System Academic Summit in April 2024 :) 
 <br>
 
