@@ -12,8 +12,8 @@
 
 ### :books: School life
 :crossed_swords: I'm currently attending The University of New Orleans as an Undergraduate, graduating December 2024
-<br>:mag: I’m most excited about taking an Intro to AI course in Spring 2024!!
-<br>:microphone: I'll be presenting [ScholarUp](https://github.com/Jenspi/ScholarUp) at the University of Louisiana System Academic Summit in April 2024 :) 
+<br>:mag: I’m most excited about the Intro to AI course I'm currently taking!!
+<br>:microphone: I'll be presenting [ScholarUp](https://github.com/Jenspi/ScholarUp) at the University of Louisiana System Academic Summit in April 2024 with my team :) 
 <br>
 
 <br>:incoming_envelope: How to reach me: <a href="https://www.linkedin.com/in/jenspi/"><img src="/images/LinkedIn.png"
