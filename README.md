@@ -1,6 +1,6 @@
 ![](https://i.pinimg.com/originals/9c/a1/e5/9ca1e556e51c25031e462bcc02e42d6a.jpg)
 
-<h1 align="center">Hi, I'm Jenny! <img src="https://64.media.tumblr.com/93b94b02cf5a55c5f0fe560a7786eceb/tumblr_mjmelbZnz71rzy67oo1_500.gifv" width="50" height="50" ></h1>
+<h1 align="center"><i>Hi, I'm Jenny! <img src="https://64.media.tumblr.com/93b94b02cf5a55c5f0fe560a7786eceb/tumblr_mjmelbZnz71rzy67oo1_500.gifv" width="50" height="50" ></i></h1>
 <img align="right" height="150" src="https://i.pinimg.com/originals/df/1f/9a/df1f9af831a6108cca907d447dcf76b8.png"/>
 
 >*The fastest way to kill something special is to compare it to something else.*
@@ -19,10 +19,23 @@
 <img src="images/teddy" width="30" height="30" align="center">  Currently learning artificial intelligence mumbo jumbo!
 
 <img src="images/gameboy" width="30" height="30" align="center">  Presenting [ScholarUp](https://github.com/Jenspi/ScholarUp) at the University of Louisiana System **Academic Summit** in April 2024 with my team :)
+
+<br>
 </p>
 
-<br><img src="images/msg" width="30" height="30" align="center"> How to reach me: <a href="https://www.linkedin.com/in/jenspi/"><img src="/images/LinkedIn.png"
-                                                                                         width="15"
-                                                                                         height="15"
-                                                                                         align="center"></a>
+<!-- Streak -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jenspi&theme=jolly&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" align="right"/></a>
 
+<!-- Skills -->
+<h2 align="center"><i>Skills</i></h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,c,react,html,javascript,css,eclipse,git,github,gitlab,vscode&perline=6" />
+  </a>
+</p>
+
+<br><br>
+<!-- Contact -->
+<p align="center">
+  <img src="images/msg" width="30" height="30" align="center"> How you can reach me: <a href="https://www.linkedin.com/in/jenspi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"></a>
+</p>
