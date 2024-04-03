@@ -18,7 +18,7 @@
 
 <img src="images/teddy" width="30" height="30" align="center">  Currently learning Artificial Intelligence mumbo jumbo!
 
-<img src="images/gameboy" width="30" height="30" align="center">  Presenting [ScholarUp](https://github.com/Jenspi/ScholarUp) at the **University of Louisiana System Academic Summit** April 11th-12th with my team :)
+<!-- <img src="images/gameboy" width="30" height="30" align="center">  -->
 
 <br>
 </p>
