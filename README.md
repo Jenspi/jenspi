@@ -16,7 +16,7 @@
 <p><img align="right" height="150" src="https://i.pinimg.com/originals/cb/0b/c6/cb0bc66247b94a7702b02e8dda7c0556.jpg"/>
 <img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center">   Student at University of New Orleans, graduating Dec. 2024
 
-<img src="images/teddy" width="30" height="30" align="center">  Currently learning Power BI and Artificial Intelligence, amongst other things!
+<img src="images/teddy" width="30" height="30" align="center">  Currently taking an introductory artificial intelligence course!
 
 <!-- <img src="images/gameboy" width="30" height="30" align="center">  -->
 
