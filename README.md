@@ -9,7 +9,7 @@
 <p><img align="right" height="150" src="https://i.pinimg.com/originals/08/89/8b/08898b68899869874bf3d3405731bba1.jpg"/>
 <img src= "images/triplehearts" width="30" height="30">   Self growth and reflection enthusiast
 
-<img src="images/pc" width="30" height="30" align="center"> Actively searching for a summer internship!
+<img src="images/pc" width="30" height="30" align="center"> Actively searching for a summer 2024 internship!
 </p>
 
 ### _Academic life_
@@ -18,7 +18,7 @@
 
 <img src="images/teddy" width="30" height="30" align="center">  Currently learning Power BI and front-end stuffs
 
-<!-- <img src="images/gameboy" width="30" height="30" align="center">  -->
+<img src="images/gameboy" width="30" height="30" align="center">  Currently beautifying old repositories and projects!
 
 <br>
 </p>
