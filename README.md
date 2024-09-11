@@ -9,7 +9,7 @@
 <p><img align="right" height="150" src="https://i.pinimg.com/originals/08/89/8b/08898b68899869874bf3d3405731bba1.jpg"/>
 <img src= "images/triplehearts" width="30" height="30">   Self growth and reflection enthusiast
 
-<img src="images/pc" width="30" height="30" align="center"> Prioritizing hobbies
+<img src="images/pc" width="30" height="30" align="center"> I love the gym, video games, and reading :)
 </p>
 
 ### _Academic life_
