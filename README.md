@@ -26,21 +26,37 @@
 </p>
 
 <!-- Skills -->
-<h2 align="center"><i>Skills & Contributions</i></h2>
+<h2 align="center"><i>My Skills</i></h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,react,html,javascript,css,eclipse,git,github,gitlab,vscode&perline=6" />
+    <p><strong><i>Front End:</i></strong></p>
+      <img src="https://skillicons.dev/icons?i=css,html,js,npm,react&perline=10" />
+    <p><strong><i>Back End & Frameworks:</i></strong></p>
+      <img src="https://skillicons.dev/icons?i=aws,azure,c,java,py"/>
+    <p><strong><i>Collaboration:</i></strong></p>
+      <img src="https://skillicons.dev/icons?i=discord,git,github,gitlab,notion"/>
+    <p><strong><i>Game Development:</i></strong></p>
+      <img src="https://skillicons.dev/icons?i=blender,cs,unity,unreal"/>
+    <p><strong><i>Miscellaneous:</i></strong></p>
+      <img src="https://skillicons.dev/icons?i=bots,eclipse,figma,linux,powershell,pycharm,ubuntu,vscode,windows,apple"/>
   </a>
 </p><br>
 
 <!-- Streak -->
   <details>
-    <summary><h2>Github Stats ⚡</h2></summary>
-  <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jenspi&theme=jolly&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a></p>
-  </details><br>
+    <summary><h2><i> Github Stats 💗</i></h2></summary>
+  <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jenspi&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a></p>
+  </details>
 
 <!-- Contact -->
-<h2 align="left"><i>Contact</i></h2>
-<p align="left">
-  <img src="images/msg" width="30" height="30" align="center"> <a href="https://www.linkedin.com/in/jenspi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"></a>
+<h2 align="left"><i>Contact Me</i></h2>
+<p>
+  <!-- LinkedIn -->
+  <img src="images/msg" width="30" height="30" align="center"> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjenspi" alt="LinkedIn Badge" align="center">
+  
+  <!-- UNO email -->
+  <img src="images/msg" width="30" height="30" align="center"> <img src="https://img.shields.io/badge/school%20email-0059A1?style=for-the-badge&logo=gmail&logoColor=012E53&labelColor=0059A1&link=mailto%3Ajmspicer%40uno.edu" alt="Mail to UNO email badge" align="center">
+
+  <!-- Gmail -->
+  <img src="images/msg" width="30" height="30" align="center"> <img src="https://img.shields.io/badge/personal%20email-grey?style=for-the-badge&logo=gmail&logoColor=%23EA4335&link=mailto%3AxJenniferSpicer%40gmail.com" alt="Mail to Gmail badge" align="center">
 </p>
