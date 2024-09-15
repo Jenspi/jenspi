@@ -9,18 +9,18 @@
 
 ### _Personal life_
 <p>
-<img src= "images/triplehearts" width="30" height="30">   Self growth and reflection enthusiast
+<img src= "images/triplehearts" width="30" height="30">   <strong>Self growth</strong> and reflection enthusiast
 
-<img src="images/pc" width="30" height="30" align="center"> I love the gym, video games, and reading :)
+<img src="images/pc" width="30" height="30" align="center"> <strong>Hobbies:</strong> I love the gym, video games, and reading :)
 </p>
 
 ### _Academic life_
 <p>
-<img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center">   Student at University of New Orleans, graduating Dec. 2024
+<img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center">   <strong>Student</strong> at University of New Orleans, graduating Dec. 2024
 
-<img src="images/teddy" width="30" height="30" align="center">  Conducting research on Emotional Intelligence (EQ) in young children @ UNO utilizing Artificial Intelligence
+<img src="images/teddy" width="30" height="30" align="center">  <strong>Conducting research</strong> on Emotional Intelligence (EQ) in young children @ UNO utilizing Artificial Intelligence
 
-<img src="images/gameboy" width="30" height="30" align="center">  Currently taking courses in Software Engineering and Game Development
+<img src="images/gameboy" width="30" height="30" align="center">  Currently taking courses in <strong>Software Engineering</strong> and <strong>Game Development</strong> (repos coming soon!)
 
 <br>
 </p>
@@ -31,9 +31,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,c,react,html,javascript,css,eclipse,git,github,gitlab,vscode&perline=6" />
   </a>
-  <!-- Streak -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jenspi&theme=jolly&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" align="right"/></a>
 </p><br>
+
+<!-- Streak -->
+  <details>
+    <summary><h2>Github Stats ⚡</h2></summary>
+  <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jenspi&theme=jolly&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a></p>
+  </details><br>
 
 <!-- Contact -->
 <h2 align="left"><i>Contact</i></h2>
