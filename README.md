@@ -18,9 +18,11 @@
 <p>
 <img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center">   <strong>Student</strong> at University of New Orleans, graduating Dec. 2024
 
-<img src="images/teddy" width="30" height="30" align="center">  <strong>Conducting research</strong> on Emotional Intelligence (EQ) in young children @ UNO utilizing Artificial Intelligence
+<img src="images/teddy" width="30" height="30" align="center">  Engaged in <strong>undergraduate research @ UNO</strong> on increasing EQ in young children through gamification
 
-<img src="images/gameboy" width="30" height="30" align="center">  Currently taking courses in <strong>Software Engineering</strong> and <strong>Game Development</strong> (repos coming soon!)
+<img src= "images/triplehearts" width="30" height="30" align ="center">   Competing in both <strong>StartupUNO</strong> and <strong>InnovateUNO</strong> this November 2024!
+
+<img src="images/gameboy" width="30" height="30" align="center">  Currently taking courses in [<strong>Software Engineering</strong>](https://github.com/4210-Capstones) and <strong>Game Development</strong> <i>(repos coming soon)</i>
 
 <br>
 </p>
