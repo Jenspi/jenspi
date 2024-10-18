@@ -20,7 +20,7 @@
 
 <img src="images/teddy" width="30" height="30" align="center">  Engaged in <strong>undergraduate research @ UNO</strong> on increasing EQ in young children through gamification
 
-<img src= "images/triplehearts" width="30" height="30" align ="center">   Competing in both <strong>StartupUNO</strong> and <strong>InnovateUNO</strong> this November 2024!
+<img src= "images/triplehearts" width="30" height="30" align ="center">   Competing in both <strong>Startup UNO</strong> and <strong><i>Innovate</i>UNO</strong> November 19, 2024!
 
 <img src="images/gameboy" width="30" height="30" align="center">  Currently taking courses in [<strong>Software Engineering</strong>](https://github.com/4210-Capstones) and <strong>Game Development</strong> <i>(repos coming soon)</i>
 
