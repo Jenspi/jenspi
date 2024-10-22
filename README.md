@@ -16,7 +16,7 @@
 
 ### _Academic life_
 <p>
-<img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center">   <strong>Student</strong> at University of New Orleans, graduating Dec. 2024
+<img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center">   <strong>Student</strong> at University of New Orleans, graduating May 2025
 
 <img src="images/teddy" width="30" height="30" align="center">  Engaged in <strong>undergraduate research @ UNO</strong> on increasing EQ in young children through gamification
 
