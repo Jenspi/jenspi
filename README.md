@@ -11,7 +11,7 @@
 <p>
 <img src= "images/triplehearts" width="30" height="30">   <strong>I love making things pretty ●ᴥ●</strong>
 
-<img src="images/pc" width="30" height="30" align="center"> I love the gym, video games, and reading :)
+<img src="images/pc" width="30" height="30" align="center"> I love the gym, video games, and reading books :)
 </p>
 
 ### _Academic life_
