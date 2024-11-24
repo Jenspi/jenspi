@@ -11,7 +11,7 @@
 <p>
 <img src= "images/triplehearts" width="30" height="30">   <strong>I love making things pretty ●ᴥ●</strong>
 
-<img src="images/pc" width="30" height="30" align="center"> I love the gym, video games, and reading books :)
+<img src="images/pc" width="30" height="30" align="center"> I love the gym, video games, organizing, and reading :)
 </p>
 
 ### _Academic life_
@@ -22,7 +22,7 @@
 
 <img src= "images/triplehearts" width="30" height="30" align ="center">   Recently won <strong>Startup UNO</strong> 2024!
 
-<img src="images/gameboy" width="30" height="30" align="center">  Currently taking courses in [<strong>Software Engineering</strong>](https://github.com/4210-Capstones) and <strong>Game Development</strong> <i>(repos coming soon)</i>
+<img src="images/gameboy" width="30" height="30" align="center">  Currently taking <strong>Software Engineering</strong> and <strong>Game Development</strong> courses
 
 <br>
 </p>
