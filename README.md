@@ -11,18 +11,16 @@
 <p>
 <img src= "images/triplehearts" width="30" height="30">   <strong>I love making things pretty ●ᴥ●</strong>
 
-<img src="images/pc" width="30" height="30" align="center"> I love the gym, video games, organizing, and reading :)
+<img src="images/pc" width="30" height="30" align="center"> I <strong>love</strong>: fitness, video games, organizing, cats, and reading :)
 </p>
 
 ### _Academic life_
 <p>
 <img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center">   <strong>Undergraduate student</strong> at University of New Orleans, graduating May 2025
 
-<img src="images/teddy" width="30" height="30" align="center">  Engaged in <strong>undergraduate research @ UNO</strong> on increasing EQ in young children through gamification
+<img src="images/gameboy" width="30" height="30" align="center">  <strong>Tolmas scholar</strong> researching *???* with data visualization in Spring 2025 (under Dr. Christopher Summa)
 
-<img src= "images/triplehearts" width="30" height="30" align ="center">   Recently won <strong>Startup UNO</strong> 2024!
-
-<img src="images/gameboy" width="30" height="30" align="center">  Currently taking <strong>Software Engineering</strong> and <strong>Game Development</strong> courses
+<img src="images/teddy" width="30" height="30" align="center">  Conducting <strong>additional research</strong> on increasing EQ in children through gamification (under Dr. Shreya Banerjee) -- won <strong>Startup UNO</strong> 2024!
 
 <br>
 </p>
@@ -54,11 +52,7 @@
 <h2 align="left"><i>Contact Me</i></h2>
 <p>
   <!-- LinkedIn -->
-  <img src="images/msg" width="30" height="30" align="center"> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjenspi" alt="LinkedIn Badge" align="center">
+  <img src="images/msg" width="30" height="30" align="center"> <img src="https://img.shields.io/badge/connect%20on%20linkedin-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjenspi" alt="LinkedIn Badge" align="center">
   
   <!-- UNO email -->
-  <img src="images/msg" width="30" height="30" align="center"> <img src="https://img.shields.io/badge/school%20email-0059A1?style=for-the-badge&logo=gmail&logoColor=012E53&labelColor=0059A1&link=mailto%3Ajmspicer%40uno.edu" alt="Mail to UNO email badge" align="center">
-
-  <!-- Gmail -->
-  <img src="images/msg" width="30" height="30" align="center"> <img src="https://img.shields.io/badge/personal%20email-grey?style=for-the-badge&logo=gmail&logoColor=%23EA4335&link=mailto%3AxJenniferSpicer%40gmail.com" alt="Mail to Gmail badge" align="center">
-</p>
+  <img src="images/msg" width="30" height="30" align="center"> <img src="https://img.shields.io/badge/email%20me-0059A1?style=for-the-badge&logo=gmail&logoColor=012E53&labelColor=0059A1&link=mailto%3Ajmspicer%40uno.edu" alt="Mail to UNO email badge" align="center">
