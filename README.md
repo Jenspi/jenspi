@@ -9,14 +9,14 @@
 
 ### _Personal life_
 <p>
-<img src= "images/triplehearts" width="30" height="30">   <strong>I love making things pretty ●ᴥ●</strong>
+<img src= "images/triplehearts" width="30" height="30">    <strong>I love making things pretty ♥ᴥ♥</strong>
 
-<img src="images/pc" width="30" height="30" align="center"> I <strong>love</strong>: fitness, video games, organizing, cats, and reading :)
+<img src="images/pc" width="30" height="30" align="center"> <strong>Favorites</strong>: fitness, video games, acrylic markers, cats, and reading nonfiction :)
 </p>
 
 ### _Academic life_
 <p>
-<img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center">   <strong>Undergraduate student</strong> at University of New Orleans, graduating May 2025
+<img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center">   <strong>Undergraduate student</strong> at University of New Orleans, graduating May 2025... then, onto Grad school :)
 
 <img src="images/gameboy" width="30" height="30" align="center">  <strong>Tolmas scholar</strong> researching *???* with data visualization in Spring 2025 (under Dr. Christopher Summa)
 
