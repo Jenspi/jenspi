@@ -2,7 +2,7 @@
 
 <h1 align="center"><i>Hi, I'm Jenny! <img src="https://64.media.tumblr.com/93b94b02cf5a55c5f0fe560a7786eceb/tumblr_mjmelbZnz71rzy67oo1_500.gifv" width="50" height="50" ></i></h1>
 
->*The fastest way to kill something special is to compare it to something else.*
+>*Practice doesn't make you perfect, but it does make you better.*
 <img align="right" height="150" src="https://i.pinimg.com/originals/cb/0b/c6/cb0bc66247b94a7702b02e8dda7c0556.jpg" alt="blooming flowers"/>
 <img align="right" height="150" src="https://i.pinimg.com/originals/08/89/8b/08898b68899869874bf3d3405731bba1.jpg" alt="sprouting flowers"/>
 <img align="right" height="150" src="https://i.pinimg.com/originals/df/1f/9a/df1f9af831a6108cca907d447dcf76b8.png" alt="planting cuttings"/>
