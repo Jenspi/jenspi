@@ -1,31 +1,23 @@
 ![](https://i.pinimg.com/originals/9c/a1/e5/9ca1e556e51c25031e462bcc02e42d6a.jpg)
 
-<h1 align="center"><i>Hi, I'm Jenny! <img src="https://64.media.tumblr.com/93b94b02cf5a55c5f0fe560a7786eceb/tumblr_mjmelbZnz71rzy67oo1_500.gifv" width="50" height="50" ></i></h1>
+<h1 align="center"><i><img src="/images/flower-bubles.gif" width=100 height=95> Hi, I'm Jenny! <img src="/images/flower-bubles.gif" width=100 height=95></i></h1>
 
->*Practice doesn't make you perfect, but it does make you better.*
-<img align="right" height="150" src="https://i.pinimg.com/originals/cb/0b/c6/cb0bc66247b94a7702b02e8dda7c0556.jpg" alt="blooming flowers"/>
-<img align="right" height="150" src="https://i.pinimg.com/originals/08/89/8b/08898b68899869874bf3d3405731bba1.jpg" alt="sprouting flowers"/>
-<img align="right" height="150" src="https://i.pinimg.com/originals/df/1f/9a/df1f9af831a6108cca907d447dcf76b8.png" alt="planting cuttings"/>
+<h3 align="center"><a href="http://jenspi.github.io"><i>Check out my portfoio :)</i></h3></a>
 
-### [_Look @ my portfolio :)_](http://jenspi.github.io)
-
-### _Personal life--_
-<p>
-<img src= "images/triplehearts" width="30" height="30">    Enjoyer of <strong>organizing</strong> and <strong>making things pretty</strong>
-
-<img src="images/pc" width="30" height="30" align="center"> <strong>Favorites</strong>: fitness, video games, acrylic markers, cats, and reading non-fiction
+<h3 align="center"><i>Academic life--</i></h3>
+<p align="center">
+    <img src="images/teddy" width="30" height="30" align="center"> University of New Orleans → Graduate school 🤞
+    <br><img src="images/gameboy" width="30" height="30" align="center"> Researching @ UNO :)
 </p>
 
-### _Academic life--_
-<p>
-<img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center">     University of New Orleans undergrad -> ??? graduate school
-
-<img src="images/gameboy" width="30" height="30" align="center">  <strong>Tolmas Scholar '25</strong> researching under Dr. Christopher Summa
-
-<img src="images/teddy" width="30" height="30" align="center">  <strong>Undergraduate Researcher</strong> under Dr. Shreya Banerjee
+<h3 align="center"><i>Personal life--</i></h3>
+<p align="center">
+<img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center"> Enjoyer of organizing and making things pretty
+<br><img src="images/pc" width="35" height="35" align="center"> Lover of video games, fitness, art supplies, cats, and reading
 </p>
 
 <!-- Skills -->
+<!--
 <details>
     <summary>
       <h3 align="center">Skills</h3>
@@ -45,20 +37,6 @@
         </a>
       </p>
 </details>
+-->
 
-<!-- Streak -->
-<!--
-  <details>
-    <summary><h3>Github Stats</h3></summary>
-  <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jenspi&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a></p>
-  </details>
-  -->
-
-<!-- Contact -->
-<h2 align="left">Contact Me</h2>
-<p>
-  <!-- LinkedIn -->
-  <img src="images/msg" width="30" height="30" align="center"> <img src="https://img.shields.io/badge/connect%20on%20linkedin-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjenspi" alt="LinkedIn Badge" align="center">
-  
-  <!-- UNO email -->
-  <img src="images/msg" width="30" height="30" align="center"> <img src="https://img.shields.io/badge/email%20me-0059A1?style=for-the-badge&logo=gmail&logoColor=012E53&labelColor=0059A1&link=mailto%3Ajmspicer%40uno.edu" alt="Mail to UNO email badge" align="center">
+<p align="center"><img src="/images/flowers.gif" height=232 width=400></p>
