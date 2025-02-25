@@ -7,13 +7,13 @@
 <h3 align="center"><i>Academic life--</i></h3>
 <p align="center">
     <img src="images/teddy" width="30" height="30" align="center"> University of New Orleans → Graduate school 🤞
-    <br><img src="images/gameboy" width="30" height="30" align="center"> Researching @ UNO :)
+    <br><img src="images/gameboy" width="30" height="30" align="center"> Student research @ UNO :)
 </p>
 
 <h3 align="center"><i>Personal life--</i></h3>
 <p align="center">
 <img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center"> Enjoyer of organizing and making things pretty
-<br><img src="images/pc" width="35" height="35" align="center"> Lover of video games, fitness, art supplies, cats, and reading
+<br><img src="images/pc" width="35" height="35" align="center"> Lover of video games, fitness, art supplies, and cats
 </p>
 
 <!-- Skills -->
