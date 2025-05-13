@@ -2,19 +2,18 @@
 
 <h1 align="center"><i><img src="/images/flower-bubles.gif" width=100 height=95> Hi, I'm Jenny! <img src="/images/flower-bubles.gif" width=100 height=95></i></h1>
 
-<h3 align="center"><a href="http://jenspi.github.io"><i>Check out my portfoio :)</i></h3></a>
-
-<h3 align="center"><i>Academic life--</i></h3>
+<!--<h3 align="center"><i>Academic life--</i></h3>-->
 <p align="center">
-    <img src="images/teddy" width="30" height="30" align="center"> University of New Orleans → Graduate school 🤞
-    <br><img src="images/gameboy" width="30" height="30" align="center"> Student research @ UNO :)
-</p>
+    <img src="images/gameboy" width="32" height="32" align="center">University of New Orleans Alumna :blue_heart::white_heart:
+<!--</p>
 
 <h3 align="center"><i>Personal life--</i></h3>
-<p align="center">
-<img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center"> Enjoyer of organizing and making things pretty
-<br><img src="images/pc" width="35" height="35" align="center"> Lover of video games, fitness, art supplies, and cats
+<p align="center">-->
+    <br><img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center"> Powered by the small details
+<!--<br><img src="images/pc" width="35" height="35" align="center"> Lover of video games, fitness, stationery, and cats-->
 </p>
+
+<h3 align="center"><a href="http://jenspi.github.io"><i>Check out my portfolio...  ˶ᵔ ᵕ ᵔ˶ </i></h3></a>
 
 <!-- Skills -->
 <!--
