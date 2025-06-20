@@ -2,14 +2,16 @@
 
 <h1 align="center"><i><img src="/images/flower-bubles.gif" width=100 height=95> Hi, I'm Jenny! <img src="/images/flower-bubles.gif" width=100 height=95></i></h1>
 
-<!--<h3 align="center"><i>Academic life--</i></h3>-->
+<!--<h3 align="center"><i>Career--</i></h3>-->
 <p align="center">
-    <img src="images/gameboy" width="32" height="32" align="center">University of New Orleans Alumna :blue_heart::white_heart:
+    :black_heart: <b>Software Engineer Intern @ </b><a href="https://github.com/StrikerVirtualRecoil"><b> StrikerVR</b></a> for Summer 2025 :black_heart:<br>
+    <!-- <img src="images/gameboy" width="32" height="32" align="center">University of New Orleans Alumna :blue_heart::white_heart:<br> -->
+    :blue_heart::white_heart: University of New Orleans Alumna<br>
 <!--</p>
 
 <h3 align="center"><i>Personal life--</i></h3>
 <p align="center">-->
-    <br><img src="https://i.pinimg.com/originals/4b/4e/53/4b4e535acabd60f52b43f19f8091ca1d.gif" width="27" height="27" align="center"> Powered by the small details
+    :zap::battery: Powered by the small details
 <!--<br><img src="images/pc" width="35" height="35" align="center"> Lover of video games, fitness, stationery, and cats-->
 </p>
 
