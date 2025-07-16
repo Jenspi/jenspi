@@ -1,4 +1,6 @@
-![](https://i.pinimg.com/originals/9c/a1/e5/9ca1e556e51c25031e462bcc02e42d6a.jpg)
+<p align="center">
+    <img src="https://i.pinimg.com/1200x/3d/c8/3e/3dc83e225d8bad2e94a2e31eb4a47fc5.jpg" width="20%" height="20%"><img src="https://i.pinimg.com/1200x/fc/98/de/fc98deea932793497bfd2b5370295f50.jpg" width="20%" height="20%"><img src="https://i.pinimg.com/1200x/eb/28/66/eb2866749b24ec93c2b875096296a14c.jpg" width="20%" height="20%"><img src="https://i.pinimg.com/1200x/5d/dd/1a/5ddd1a233305c8b5db208f7b9dcad6cd.jpg" width="20%" height="20%"><img src="https://i.pinimg.com/1200x/59/5d/ed/595ded7b1ae12764851ca750ef86fc7b.jpg" width="20%" height="20%">
+</p>
 
 <h1 align="center"><i><img src="/images/flower-bubles.gif" width=100 height=95> Hi, I'm Jenny! <img src="/images/flower-bubles.gif" width=100 height=95></i></h1>
 
