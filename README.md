@@ -6,7 +6,7 @@
 <p align="center">
     :black_heart: <b>Software Engineer Intern @ </b><a href="https://github.com/StrikerVirtualRecoil"><b> StrikerVR</b></a> for Summer 2025 :black_heart:<br>
     <!-- <img src="images/gameboy" width="32" height="32" align="center">University of New Orleans Alumna :blue_heart::white_heart:<br> -->
-    :blue_heart::white_heart: University of New Orleans Alumna<br>
+    <!-- :blue_heart::white_heart: University of New Orleans Alumna<br> -->
 <!--</p>
 
 <h3 align="center"><i>Personal life--</i></h3>
