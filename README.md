@@ -5,7 +5,7 @@
 <h1 align="center"><i><img src="/images/flower-bubles.gif" width=100 height=95> Hi, I'm Jenny! <img src="/images/flower-bubles.gif" width=100 height=95></i></h1>
 
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1F1UEw6ipLrM4dA8iN7HzCiWXD0jIHLmjTQ&s" height="1.2%" width="1.2%"> <b>Software Engineer Intern @ </b><a href="https://github.com/StrikerVirtualRecoil"><b> StrikerVR</b> </a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1F1UEw6ipLrM4dA8iN7HzCiWXD0jIHLmjTQ&s" height="1.2%" width="1.2%"><br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1F1UEw6ipLrM4dA8iN7HzCiWXD0jIHLmjTQ&s" height="1.2%" width="1.2%"> <b>Software Engineer @ </b><a href="https://github.com/StrikerVirtualRecoil"><b> StrikerVR</b> </a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1F1UEw6ipLrM4dA8iN7HzCiWXD0jIHLmjTQ&s" height="1.2%" width="1.2%"><br>
 
 <h3 align="center"><a href="http://jenspi.github.io"><i>Check out my portfolio...  ˶ᵔ ᵕ ᵔ˶ </i></h3></a>
 
