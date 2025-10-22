@@ -7,7 +7,7 @@
 <p align="center">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1F1UEw6ipLrM4dA8iN7HzCiWXD0jIHLmjTQ&s" height="1.2%" width="1.2%"> <b>Software Engineer @ </b><a href="https://github.com/StrikerVirtualRecoil"><b> StrikerVR</b> </a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1F1UEw6ipLrM4dA8iN7HzCiWXD0jIHLmjTQ&s" height="1.2%" width="1.2%"><br>
 
-<h3 align="center"><a href="http://jenspi.github.io"><i>Check out my portfolio...  ˶ᵔ ᵕ ᵔ˶ </i></h3></a>
+<h3 align="center"><a href="http://jenspi.github.io"><i>Check out my portfolio...  ˶ᵔ ᵕ ᵔ˶ (work in progress) </i></h3></a>
 
 <!-- Skills -->
 <!--
